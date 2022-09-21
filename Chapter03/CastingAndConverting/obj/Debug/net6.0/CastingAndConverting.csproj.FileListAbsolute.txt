@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\bin\Debug\net6.0\CastingAndConverting.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\bin\Debug\net6.0\CastingAndConverting.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\bin\Debug\net6.0\CastingAndConverting.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\bin\Debug\net6.0\CastingAndConverting.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\bin\Debug\net6.0\CastingAndConverting.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\refint\CastingAndConverting.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\CastingAndConverting.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\CastingAndConverting\obj\Debug\net6.0\ref\CastingAndConverting.dll

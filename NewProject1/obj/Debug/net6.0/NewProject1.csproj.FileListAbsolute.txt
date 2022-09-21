@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\bin\Debug\net6.0\NewProject1.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\bin\Debug\net6.0\NewProject1.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\bin\Debug\net6.0\NewProject1.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\bin\Debug\net6.0\NewProject1.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\bin\Debug\net6.0\NewProject1.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\refint\NewProject1.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\NewProject1.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\NewProject1\obj\Debug\net6.0\ref\NewProject1.dll

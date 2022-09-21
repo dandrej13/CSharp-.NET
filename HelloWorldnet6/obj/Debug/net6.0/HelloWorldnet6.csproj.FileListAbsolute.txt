@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\bin\Debug\net6.0\HelloWorldnet6.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\bin\Debug\net6.0\HelloWorldnet6.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\bin\Debug\net6.0\HelloWorldnet6.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\bin\Debug\net6.0\HelloWorldnet6.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\bin\Debug\net6.0\HelloWorldnet6.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\refint\HelloWorldnet6.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\HelloWorldnet6.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\HelloWorldnet6\obj\Debug\net6.0\ref\HelloWorldnet6.dll

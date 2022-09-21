@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\bin\Debug\net6.0\Operatorts.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\bin\Debug\net6.0\Operatorts.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\bin\Debug\net6.0\Operatorts.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\bin\Debug\net6.0\Operatorts.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\bin\Debug\net6.0\Operatorts.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\refint\Operatorts.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\Operatorts.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#&.NET\Chapter03\Operatorts\obj\Debug\net6.0\ref\Operatorts.dll
