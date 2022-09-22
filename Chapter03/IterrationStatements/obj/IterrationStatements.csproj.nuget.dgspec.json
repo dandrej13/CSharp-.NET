@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj": {}
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj": {
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj",
         "projectName": "IterrationStatements",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\Chapter03\\IterrationStatements\\IterrationStatements.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\Chapter03\\IterrationStatements\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\Chapter03\\IterrationStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
