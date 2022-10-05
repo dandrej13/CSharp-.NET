@@ -6,10 +6,18 @@ string? input = ReadLine();
 string message = "NaN";
 try
 {
-    int age = int.Parse(input);
+    byte age = byte.Parse(input);
     Console.WriteLine($"You are {age} years old" );
 }
-catch(Exception ex)
+catch (FormatException ex)
+{
+    WriteLine($"FormatException says {message}");
+}
+catch (OverflowException ex)
+{
+    Console.WriteLine($"Your input valid but is too small or large");
+}
+catch (Exception ex)
 {
     WriteLine($"{ex.GetType()} says {message}");
 }

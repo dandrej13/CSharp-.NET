@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\bin\Debug\net6.0\WritingFucntion.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\bin\Debug\net6.0\WritingFucntion.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\bin\Debug\net6.0\WritingFucntion.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\bin\Debug\net6.0\WritingFucntion.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\bin\Debug\net6.0\WritingFucntion.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\refint\WritingFucntion.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\WritingFucntion.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\WritingFucntion\obj\Debug\net6.0\ref\WritingFucntion.dll

@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\bin\Debug\net6.0\Debugging.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\bin\Debug\net6.0\Debugging.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\bin\Debug\net6.0\Debugging.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\bin\Debug\net6.0\Debugging.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\bin\Debug\net6.0\Debugging.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\refint\Debugging.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter05\suffixesOnNumbers\Debugging\obj\Debug\net6.0\ref\Debugging.dll

@@ -1,0 +1,16 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\bin\Debug\net5.0\Ch04Practice.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\refint\Ch04Practice.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\Ch04Practice.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\CSharp-.NET\Chapter04\Ch04Practice\obj\Debug\net5.0\ref\Ch04Practice.dll
