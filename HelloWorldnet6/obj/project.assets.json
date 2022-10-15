@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\HelloWorldnet6\\HelloWorldnet6.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\HelloWorldnet6\\HelloWorldnet6.csproj",
       "projectName": "HelloWorldnet6",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\HelloWorldnet6\\HelloWorldnet6.csproj",
+      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\HelloWorldnet6\\HelloWorldnet6.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\C#&.NET\\HelloWorldnet6\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\code22\\FullStackDevelopment\\CSharp-.NET\\HelloWorldnet6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
