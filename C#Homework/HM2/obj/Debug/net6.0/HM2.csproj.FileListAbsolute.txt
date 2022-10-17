@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\bin\Debug\net6.0\HM2.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\bin\Debug\net6.0\HM2.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\bin\Debug\net6.0\HM2.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\bin\Debug\net6.0\HM2.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\bin\Debug\net6.0\HM2.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\refint\HM2.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\HM2.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\C#Homework\HM2\obj\Debug\net6.0\ref\HM2.dll
